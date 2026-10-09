@@ -25,6 +25,7 @@ With enough work, it might be reasonable to add in these features too, but they'
 * Bluetooth Compatiblitiy
 * Access to Weather Forcasts
 * Push Notifications when Major Changes Occue
+* Charging & Battery Info
 
 
 **Hardware Specifications**
