@@ -29,9 +29,9 @@ With enough work, it might be reasonable to add in these features too, but they'
 
 **Hardware Specifications**
 
-* Espressif ESP32-S2 - Chosen due to high pin number, Wi-Fi and Bluetooth connectivity, compatibility with Arduino, and low cost for the given performance
-  * Pin Layout Reference: https://docs.espressif.com/projects/esp-idf/en/v5.0-beta1/esp32s2/hw-reference/esp32s2/user-guide-devkitm-1-v1.html
+* Espressif ESP32-S3-MINI-1-N8 - Chosen due to high pin number, Wi-Fi and Bluetooth connectivity, compatibility with Arduino, and low cost for the given performance
+  * Pin Layout Reference: https://documentation.espressif.com/esp32-s3-mini-1_mini-1u_datasheet_en.html
 * Light Dependent Resistor A1050 14 - Selected due to native support in KiCad and high sensitivity
   * Pin Reference: https://www.caretxdigital.com/cat6-ethernet-cable-amazon/
 * I2C Temperature & Humidity Sensor - Chosen due to accuracy and multifunctionality
- * Pin Reference: https://www.alldatasheet.com/datasheet-pdf/view/1522466/SENSIRION/SHT31-DIS.html
+  * Pin Reference: https://www.alldatasheet.com/datasheet-pdf/view/1522466/SENSIRION/SHT31-DIS.html
