@@ -6,26 +6,28 @@ Inspired by features on the Starbie, but extended for functionality and developm
 Living in a place where the climate constantly fluctuates, it can be handy to glance at a small device that's 
 not a phone to see what's happening in the air around oneself.
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6c1c1373-92ab-4695-aa3a-bbbb6e39c246" />
+<img width="1125" height="746" alt="image" src="https://github.com/user-attachments/assets/758feeee-9429-4aa0-8aee-e197fa31aee8" />
 
 Here's some of the planned features:
 
 - [x] Temperature Sensor
 - [x] Humidity Sensor
-- [ ] Battery Powered or Rechargeability
-- [ ] OLED Display
-- [ ] Navigation Buttons
-- [ ] Power/Charging LED
+- [x] Battery Powered or Rechargeability
+- [x] OLED Display
+- [x] Navigation Buttons
+- [x] Power/Charging Indicator
 - [x] Ambient Light Level Monitor
-- [ ] Audio Sensor
+- [x] Audio Sensor
 
-With enough work, it might be reasonable to add in these features too, but they're lower Priority:
+Checks does not mean it's programmed, just accounted for and wired.
 
-* Wi-Fi Connection
-* Bluetooth Compatiblitiy
-* Access to Weather Forcasts
-* Push Notifications when Major Changes Occue
-* Charging & Battery Info
+With enough work, it might be reasonable to add in these features too, but they are lower priority:
+
+- [ ] Wi-Fi Connection
+- [ ] Bluetooth Compatiblitiy
+- [ ] Access to Weather Forcasts
+- [ ] Push Notifications when Major Changes Occue
+- [ ] Charging & Battery Info
 
 
 **Hardware Specifications**
@@ -34,5 +36,7 @@ With enough work, it might be reasonable to add in these features too, but they'
   * Pin Layout Reference: https://documentation.espressif.com/esp32-s3-mini-1_mini-1u_datasheet_en.html
 * Light Dependent Resistor A1050 14 - Selected due to native support in KiCad and high sensitivity
   * Pin Reference: https://www.caretxdigital.com/cat6-ethernet-cable-amazon/
-* I2C Temperature & Humidity Sensor - Chosen due to accuracy and multifunctionality
+* I2C SHT31-DIS Temperature & Humidity Sensor - Chosen due to accuracy and multifunctionality
   * Pin Reference: https://www.alldatasheet.com/datasheet-pdf/view/1522466/SENSIRION/SHT31-DIS.html
+* I2S SPH0645LM4H Sound Sensor - Chosen for compactness and price point
+  * Pin Reference: https://probots.co.in/technical_data/SPH0645LM4H_Datasheet.pdf
