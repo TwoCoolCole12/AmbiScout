@@ -32,9 +32,10 @@ With enough work, it might be reasonable to add in these features too, but they 
 - [x] Barometric Pressure Sensor
 - [ ] Built in Clock
 - [ ] Movement Sensor
-      
 
-**Hardware Specifications**
+<img width="1540" height="792" alt="image" src="https://github.com/user-attachments/assets/6696779c-9822-4993-9d67-4103371ddfd6" />
+
+**Hardware Specifications** WIP
 
 * Espressif ESP32-S3-MINI-1-N8 - Chosen due to high pin number, Wi-Fi and Bluetooth connectivity, compatibility with Arduino, and low cost for the given performance
   * Pin Layout Reference: https://documentation.espressif.com/esp32-s3-mini-1_mini-1u_datasheet_en.html
