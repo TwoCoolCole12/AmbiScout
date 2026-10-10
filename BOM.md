@@ -29,7 +29,7 @@
 | [1825910-6](https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536) | Navigation Buttons | 4 | $0.13 | $0.52 | [DigiKey](https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536) |
 | [SM02B-SRSS-TB](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM02B-SRSS-TB/926708?s=N4IgTCBcDaIMoFkAMYBCBaOAlOd0BVUAKAGQDEBKIuAOQpAF0BfIA) | Battery Connector | 1 | $0.38 | $0.38 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM02B-SRSS-TB/926708?s=N4IgTCBcDaIMoFkAMYBCBaOAlOd0BVUAKAGQDEBKIuAOQpAF0BfIA) |
 | **Parts subtotal** | — | — | — | **$28.92** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.92** | — |
+| **Tax & shipping** | — | — | — | **$11.62** | — |
+| **Total** | — | — | — | **$40.54** | — |
 
-$36.08 left of the tier's funding.
+$24.46 left of the tier's funding.
