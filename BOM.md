@@ -30,7 +30,7 @@
 | [SM02B-SRSS-TB](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM02B-SRSS-TB/926708?s=N4IgTCBcDaIMoFkAMYBCBaOAlOd0BVUAKAGQDEBKIuAOQpAF0BfIA) | Battery Connector | 1 | $0.38 | $0.38 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM02B-SRSS-TB/926708?s=N4IgTCBcDaIMoFkAMYBCBaOAlOd0BVUAKAGQDEBKIuAOQpAF0BfIA) |
 | [BMP384](https://www.digikey.com/en/products/detail/bosch-sensortec/BMP384/13681277) | Barometric Pressure Sensor | 1 | $3.81 | $3.81 | [DigiKey](https://www.digikey.com/en/products/detail/bosch-sensortec/BMP384/13681277) |
 | **Parts subtotal** | — | — | — | **$32.73** | — |
-| **Tax & shipping** | — | — | — | **$12.01** | — |
-| **Total** | — | — | — | **$44.74** | — |
+| **Tax & shipping** | — | — | — | **$12.91** | — |
+| **Total** | — | — | — | **$45.64** | — |
 
-$20.26 left of the tier's funding.
+$19.36 left of the tier's funding.
