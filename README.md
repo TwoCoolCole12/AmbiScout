@@ -28,7 +28,11 @@ With enough work, it might be reasonable to add in these features too, but they 
 - [ ] Access to Weather Forcasts
 - [ ] Push Notifications when Major Changes Occue
 - [ ] Charging & Battery Info
-
+- [ ] CO2 Sensor
+- [ ] Barometric Pressure Sensor
+- [ ] Built in Clock
+- [ ] Movement Sensor
+      
 
 **Hardware Specifications**
 
