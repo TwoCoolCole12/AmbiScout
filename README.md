@@ -6,7 +6,7 @@ Inspired by features on the Starbie, but extended for functionality and developm
 Living in a place where the climate constantly fluctuates, it can be handy to glance at a small device that's 
 not a phone to see what's happening in the air around oneself.
 
-<img width="1705" height="993" alt="image" src="https://github.com/user-attachments/assets/a8b8cf0a-5a75-4171-8022-d5c9f73fea20" />
+<img width="1732" height="992" alt="Screenshot 2026-10-10 183336" src="https://github.com/user-attachments/assets/c6258785-c66a-47f5-b19d-a225aa41e19d" />
 
 Here's some of the planned features:
 
