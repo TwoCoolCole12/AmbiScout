@@ -32,7 +32,7 @@
 | [PDV-P8103](https://www.digikey.com/en/products/detail/advanced-photonix/PDV-P8103/480610) | Photoresistor | 1 | $0.72 | $0.72 | [DigiKey](https://www.digikey.com/en/products/detail/advanced-photonix/PDV-P8103/480610) |
 | [MAMK2520HR47M](https://www.digikey.com/en/products/detail/taiyo-yuden/MAMK2520HR47M/5361238) | Inductor for the Regulator | 1 | $0.19 | $0.19 | [DigiKey](https://www.digikey.com/en/products/detail/taiyo-yuden/MAMK2520HR47M/5361238) |
 | **Parts subtotal** | — | — | — | **$33.64** | — |
-| **Tax & shipping** | — | — | — | **$11.91** | — |
-| **Total** | — | — | — | **$45.55** | — |
+| **Tax & shipping** | — | — | — | **$11.93** | — |
+| **Total** | — | — | — | **$45.57** | — |
 
-$19.45 left of the tier's funding.
+$19.43 left of the tier's funding.
