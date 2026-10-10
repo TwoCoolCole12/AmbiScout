@@ -6,7 +6,7 @@ Inspired by features on the Starbie, but extended for functionality and developm
 Living in a place where the climate constantly fluctuates, it can be handy to glance at a small device that's 
 not a phone to see what's happening in the air around oneself.
 
-<img width="1125" height="746" alt="image" src="https://github.com/user-attachments/assets/758feeee-9429-4aa0-8aee-e197fa31aee8" />
+<img width="1705" height="993" alt="image" src="https://github.com/user-attachments/assets/a8b8cf0a-5a75-4171-8022-d5c9f73fea20" />
 
 Here's some of the planned features:
 
@@ -29,7 +29,7 @@ With enough work, it might be reasonable to add in these features too, but they 
 - [ ] Push Notifications when Major Changes Occue
 - [ ] Charging & Battery Info
 - [ ] CO2 Sensor
-- [ ] Barometric Pressure Sensor
+- [x] Barometric Pressure Sensor
 - [ ] Built in Clock
 - [ ] Movement Sensor
       
