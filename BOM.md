@@ -33,7 +33,7 @@
 | [MAMK2520HR47M](https://www.digikey.com/en/products/detail/taiyo-yuden/MAMK2520HR47M/5361238) | Inductor for the Regulator | 1 | $0.19 | $0.19 | [DigiKey](https://www.digikey.com/en/products/detail/taiyo-yuden/MAMK2520HR47M/5361238) |
 | [USB4105-GF-A](https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441) | USB-C Receptacle for Data Transfer & Power | 1 | $0.80 | $0.80 | [DigiKey](https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441) |
 | **Parts subtotal** | — | — | — | **$34.64** | — |
-| **Tax & shipping** | — | — | — | **$12.14** | — |
-| **Total** | — | — | — | **$46.78** | — |
+| **Tax & shipping** | — | — | — | **$12.13** | — |
+| **Total** | — | — | — | **$46.77** | — |
 
-$18.22 left of the tier's funding.
+$18.23 left of the tier's funding.
