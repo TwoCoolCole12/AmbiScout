@@ -42,5 +42,5 @@ With enough work, it might be reasonable to add in these features too, but they 
   * Pin Reference: https://www.caretxdigital.com/cat6-ethernet-cable-amazon/
 * I2C SHT31-DIS Temperature & Humidity Sensor - Chosen due to accuracy and multifunctionality
   * Pin Reference: https://www.alldatasheet.com/datasheet-pdf/view/1522466/SENSIRION/SHT31-DIS.html
-* I2S SPH0645LM4H Sound Sensor - Chosen for compactness and price point
-  * Pin Reference: https://probots.co.in/technical_data/SPH0645LM4H_Datasheet.pdf
+* SPH0655LM4H-1-8 Sound Sensor - Chosen for compactness and price point
+  * Pin Reference: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6634/SPH0655LM4H-1-8.pdf
